@@ -19,6 +19,8 @@ bash create_ddl.sh <csv file>
 - SEPERATOR : 구분자 설정 (default : |)
 - OPTION : 테이블 CREATE 옵션 설정 (default : NOLOGGING COMPRESS BASIC)
 - OUTPUT FILENAME : 출력 파일 설정 (default : RESULT_DDL.sql)
+
+
 ![image](https://user-images.githubusercontent.com/35316595/175203775-f7d9a170-0ed3-4685-b586-ed71d78d8dfb.png)
 
 ##4. 결과 확인
